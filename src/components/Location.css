@@ -1,0 +1,12 @@
+#location{
+    display: flex;
+    flex-direction: row;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+.anch{
+    padding-top: 17px;
+    padding-left: 10px;
+}

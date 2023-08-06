@@ -1,0 +1,34 @@
+.for--grid{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+}
+.for--Color{
+    display: flex;
+    gap: 5px;
+}
+.for--Images{
+    text-align: center;
+}
+.for--Images > img{
+    height: 80%;
+    width: 100%; 
+}
+.ABC{
+    height: 50px;
+    width: 60px;
+}
+.Time{
+    height: 100%;
+    width: 10%;
+}
+.HeartRate{
+    margin-left: 5px;
+    height: 100%;
+    width: 20%;
+}
+.BuyNow{
+    margin-top: 10px;
+}

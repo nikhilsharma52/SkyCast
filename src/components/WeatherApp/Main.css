@@ -1,0 +1,111 @@
+*{
+  color: black;
+}
+.main_div{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../../ONload.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  .for_ele{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    gap: 10px;
+    margin-top: 30px;
+    margin-left: 22px
+  }
+  .Weather{
+    margin-left: 2px;
+    border-radius: 12px;
+    border: 2px solid black;
+  }
+  .Weather:hover{
+    cursor: pointer;
+    animation: zoom-in 1s ease 1;
+  }
+  @keyframes zoom-in {
+    0% {
+      transform: scale(1, 1);
+    }
+    50% {
+      transform: scale(1.1, 1.1);
+    }
+    100% {
+      transform: scale(1,1);
+    }
+  }
+  .tempData{
+    padding-left: 20px; 
+  }
+  .search-container{
+    position: relative;
+    left: 500px;
+    
+  }
+  .search-input{
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 30px;
+    width: 300px;
+  }
+  .MainCardData{
+    margin-left: 22px;
+    display: flex;
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
+    color: white;
+    border-radius: 20px;
+  }
+  .for-day{
+    padding-left: 20px;
+  }
+  .for-shifting{
+    padding-left: 35px;
+  }
+  .for-shifting2{
+    padding-left: 35px;
+  }
+  .for-map{
+    position: relative;
+    width: 32.5%;
+    height: 50%;
+    border: 2px solid black;
+    margin-left: 1015px;
+    top: -220px;
+  }
+ .Chart{
+  margin-top: 35px;
+  margin-left: -15px;
+ } 
+ .Chart.js{
+  
+  border: 2px solid black;
+  border-radius: 2px;
+ }
+.Search-icons{
+  height: 20px;
+  position: absolute;
+  top: 29px;
+  left: 385px;
+ }
+ .search-container{
+  display: flex;
+  /* border: 2px solid red; */
+  
+}
+.Label-Icons{
+   /* border: 2px solid red; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+ }
+ .search-input{
+  padding: 10px;
+  top: 29px;
+  margin-left: 110px;
+ }
+  

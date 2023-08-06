@@ -1,0 +1,49 @@
+.Main{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../../background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.for_card_div{
+    display: flex;
+    flex-direction: column;
+}
+.for_card_css{
+    background-color: rgb(124, 194, 245);
+    border: 3px solid white;
+    position: relative;
+    left: 150px;
+    top: 100px;
+    height: 150px;
+    width: 200px;
+    border-radius: 30px;
+}
+.for_main{
+    height: 50px;
+    background-color: rgb(145, 88, 88);
+}
+.for_logo{
+    font-weight: bold;
+    padding: 5px;
+    margin-left: 5px;
+}
+.for_location{
+    height: 20px;
+    margin-left: 450px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+    background-size: 20px;
+    padding-left: 25px;
+    width: 500px;
+}
+.for_temp{
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.for_extra{
+    padding-left: 10px;
+}

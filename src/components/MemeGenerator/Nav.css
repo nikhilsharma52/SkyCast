@@ -1,0 +1,15 @@
+#Header{
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    width: 50vw;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: white;
+}
+.para--el{
+    margin-top: 26px;
+    margin-left: 350px;
+}
+.Heading--el{
+    margin-left: 20px;
+}
