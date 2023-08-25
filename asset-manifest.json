@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Weather-Forecasting-Application/static/css/main.6e0908ff.css",
+    "main.js": "/Weather-Forecasting-Application/static/js/main.078d3017.js",
+    "static/js/787.767f8759.chunk.js": "/Weather-Forecasting-Application/static/js/787.767f8759.chunk.js",
+    "static/media/ONload.jpg": "/Weather-Forecasting-Application/static/media/ONload.8e6bee5a8646f9497301.jpg",
+    "static/media/fewclouds.jpg": "/Weather-Forecasting-Application/static/media/fewclouds.587d6d9d2d8ffbfba4aa.jpg",
+    "static/media/overcastclouds.jpg": "/Weather-Forecasting-Application/static/media/overcastclouds.41924e2e2744d6d708c9.jpg",
+    "static/media/ScatterdClouds.jpg": "/Weather-Forecasting-Application/static/media/ScatterdClouds.9fe8c81aaf81025f6f7f.jpg",
+    "static/media/weather_day.jpg": "/Weather-Forecasting-Application/static/media/weather_day.9393294dd290c018d1bf.jpg",
+    "static/media/Rainy2.png": "/Weather-Forecasting-Application/static/media/Rainy2.3c34cbb45ed26d9b1555.png",
+    "static/media/thunderstorm-3625405__480.jpg": "/Weather-Forecasting-Application/static/media/thunderstorm-3625405__480.49a2ce800fd9c6a97511.jpg",
+    "index.html": "/Weather-Forecasting-Application/index.html",
+    "main.6e0908ff.css.map": "/Weather-Forecasting-Application/static/css/main.6e0908ff.css.map",
+    "main.078d3017.js.map": "/Weather-Forecasting-Application/static/js/main.078d3017.js.map",
+    "787.767f8759.chunk.js.map": "/Weather-Forecasting-Application/static/js/787.767f8759.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0908ff.css",
+    "static/js/main.078d3017.js"
+  ]
+}
